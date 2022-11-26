@@ -5,7 +5,7 @@
     }
 </style>
 <span style="font-weight: bold;text-align: center; display: inline">
-  <img alt="text" src="Sarah_Profile.jpeg" width="25%" height="25%"><br/> 
+  <img alt="SARAH PROFILE'S" src="Sarah_Profile.jpeg" width="25%" height="25%"><br/> 
 </span>
  
 
@@ -23,6 +23,25 @@ Prepare to be a Full Stack Developer
 
 </br>
 
+## <ins> Skills </ins>
+
+
+</br>
+
+` Professional Skill`:
+- Creativity
+- Problem Solving
+- Public Speaking
+- Teamwork Skills
+  
+` Technical Skill`:
+
+- HTML5
+- CSS
+- PHP
+- JAVASCRIPT
+
+ 
 ## <ins> Experience </ins>
 
 `2020-2021` &nbsp;
