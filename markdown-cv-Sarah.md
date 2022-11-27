@@ -11,7 +11,7 @@
 
 
 # Sarah Awik
-`IT, TOT`
+`Programmer, TOT`
 <div>
 <a href="awiksarah@gmail.com">awiksarah@gmail.com</a>
 | <a href="https://github.com/AWIKSARAH">My GITHUB page</a> | +961-81457099
